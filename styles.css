@@ -1,0 +1,12 @@
+button {
+    background-color: orange;
+    border: 6px solid magenta;
+    border-radius: 30px;
+    width: 200px;
+  }
+  
+  select {
+    display: block;
+    margin-bottom: 20px;
+  }
+  
